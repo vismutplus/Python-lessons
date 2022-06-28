@@ -1,1 +1,3 @@
-print('Привет мир!')
+message = 'Привет мир!'
+
+print(message)
