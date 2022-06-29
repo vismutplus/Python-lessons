@@ -1,4 +1,4 @@
-message = 'Привет мир! А тебе есть 18?'
+message = 'Привет мир! А тебе есть 18?'  # asdasdasd
 
 print(message)
 
